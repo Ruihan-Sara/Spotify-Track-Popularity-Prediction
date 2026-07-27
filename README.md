@@ -89,10 +89,9 @@ Random Forest achieved the strongest predictive performance among the three mode
 ```
 spotify-track-popularity-prediction/
 │
-├── data/                
-├── notebooks/            # Jupyter notebooks
-├── report/               # Project report
-├── README.md
+├── README.md               
+├── Spotify Track Popularity Prediction Report               
+├── data
 └── Spotify Prediction.ipynb (or .py)
 ```
 
