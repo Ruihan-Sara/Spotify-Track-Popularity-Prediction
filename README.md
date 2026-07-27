@@ -98,6 +98,22 @@ spotify-track-popularity-prediction/
 
 ---
 
+## Results
+
+| Model | R² (Without Artist Features) | R² (With Artist Features) |
+|-------|-----------------------------:|--------------------------:|
+| Linear Regression | 0.04 | 0.44 |
+| Random Forest | 0.693 | 0.873 |
+| Gradient Boosting | 0.084 | 0.53 |
+
+Including artist-related features substantially improved prediction performance across all models.
+
+| Model | MAE (Without Artist Features) | MAE (With Artist Features) |
+|-------|------------------------------:|---------------------------:|
+| Linear Regression | 14.23 | 9.91 |
+| Random Forest | 6.237 | 4.231 |
+| Gradient Boosting | 13.57 | 8.59 |
+
 ## Future Improvements
 
 Potential future improvements include:
