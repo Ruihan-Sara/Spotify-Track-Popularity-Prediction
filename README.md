@@ -114,6 +114,8 @@ Including artist-related features substantially improved prediction performance 
 | Random Forest | 6.237 | 4.231 |
 | Gradient Boosting | 13.57 | 8.59 |
 
+---
+
 ## Future Improvements
 
 Potential future improvements include:
