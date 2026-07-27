@@ -115,6 +115,20 @@ Including artist-related features substantially improved prediction performance 
 
 ---
 
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+- **Dataset:** Spotify Tracks Dataset
+- **Source:** Kaggle
+- **Link:** [https://www.kaggle.com/......](https://www.kaggle.com/datasets/sarahjeffreson/featured-spotify-artiststracks-with-metadata)
+
+The original dataset contains track metadata, audio features, artist information and popularity scores.
+
+The dataset is included in the `data/` folder for reproducibility.
+
+---
+
 ## Future Improvements
 
 Potential future improvements include:
