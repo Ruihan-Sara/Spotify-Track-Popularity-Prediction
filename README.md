@@ -91,9 +91,12 @@ spotify-track-popularity-prediction/
 │
 ├── README.md               
 ├── Spotify Track Popularity Prediction Report               
-├── data
-└── Spotify Prediction.ipynb (or .py)
-```
+├── data.csv
+├── Gradient Boosting.py
+├── EDA.py
+├── SHAP、Residual
+├── Linear Regression + PCA
+└── random_forest
 
 ---
 
